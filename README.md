@@ -1,5 +1,4 @@
 # Algorithms
-每天写点算法。
 
 所有算法的测试用例在[Main.java](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/main/Main.java)中，运行这个文件便可以看到结果。
 
@@ -29,12 +28,6 @@
 
 2018年5月21日
 
-初中开始编程，之前很擅长递归变非递归。这两年算法题几乎没怎么做，所以最近自己多写写。
-
-个人觉得非递归算法很有意思，校招迅雷的时候，跟面试官将了一下怎么将递归变非递归，当时他觉得太牛了。
-
-很多人会觉得我代码太复杂，尤其昨天BST节点删除的代码估计很多人看了会吐血。我写算法一般不看别人的代码，完全是自己理解后写的，是适合自己的。我觉得时间复杂度都差不多，最多差个常数，所以代码复杂点无所谓。何况我自己写算法只是想保持思维，不是想考ACM。
-
 [二叉树的高度](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/BinaryTreeHeight.java)
 
 ##并查集
@@ -61,9 +54,6 @@
 
 自虐一番，写一个非递归快速排序，这次用state表示递归函数执行到的地方，并且将需要用到的临时变量i保存在stack中。
 
-估计不会有人蛋疼地写一个非递归快排，呵呵！
-
-我觉得非递归先放一下啦，还有好多算法要温习，所以最近暂时不写非递归了。
 
 [非递归快速排序](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/QuickSort.java)
 
@@ -79,7 +69,6 @@
 
 2018年5月27日
 
-好久不写双向链表了，今天写一个。
 
 [双向链表](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/DoublyLinkedList.java)
 
@@ -101,21 +90,11 @@
 
 2018年5月30日
 
-这个题目高中的时候用DFS做了好久。
-
-现在尝试BFS，二十分钟就写好了，感觉自己现在写代码真的比高中的时候快好多。
-
-做得比较吊的地方是输出的表达式是严格简化过的，不会出现多余括号。
-
 [24点游戏](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/TwentyFourGame.java)
 
 ##蛇形矩阵
 
 2018年5月31日
-
-纯自虐，写出了数学公式来解决蛇形矩阵，给出位置就可以用公式计算值。
-
-具体推导过程见代码的注释部分。
 
 [蛇形矩阵](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/SnakeMatrix.java)
 
@@ -126,10 +105,6 @@
 设有3个传教士（Missionaries）和3个野人(Cannibals)来到河边，打算乘一只船从右岸渡到左岸去。
 该船的最大负荷能力为两个人（k=2）。在任何情况下：如果野人人数超过传教士人数，那么野人就会把传教士吃掉。
 他们怎样才能用这条船安全地把所有人都渡过河去呢？
-
-网上有人用dfs，这不很明显应该用bfs吗？？？
-
-好忧伤的六一儿童节！！！
 
 [野人传教士过河](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/MissionariesAndCannibalsProblem.java)
 
@@ -197,8 +172,7 @@
 
 ##二分查找
 
-2018年6月12日
+2018年5月12日
 
 [二分查找](https://github.com/michaelwuyu/Algorithms/blob/master/algorithms/src/main/java/michaelwuyu/algorithm/BinarySearch.java)
 
-So busy recently!
